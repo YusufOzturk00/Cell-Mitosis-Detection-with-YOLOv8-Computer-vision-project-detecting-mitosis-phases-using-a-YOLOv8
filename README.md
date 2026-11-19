@@ -5,7 +5,7 @@ https://www.kaggle.com/code/yusufztrk220205019/yusuf-zt-rk-220205019
 
 # Mitosis Detection - YOLOv8 Training Pipeline
 
-This Jupyter notebook (`yusuf-zt-rk-220205019.ipynb`) implements a complete YOLOv8 training pipeline for mitosis detection on the **MiDeSeC (Ankara University) dataset**.
+This Jupyter notebook (`yusuf-zt-rk-220205019.ipynb`) implements a complete YOLOv8 training pipeline for mitosis detection
 
 ## 📋 Overview
 
