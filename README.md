@@ -3,7 +3,7 @@ Cell-Mitosis-Detection-with-YOLOv8-Computer-vision-project-detecting-mitosis-pha
 https://www.kaggle.com/code/yusufztrk220205019/yusuf-zt-rk-220205019
 
 
-# MiDeSeC Mitosis Detection - YOLOv8 Training Pipeline
+# Mitosis Detection - YOLOv8 Training Pipeline
 
 This Jupyter notebook (`yusuf-zt-rk-220205019.ipynb`) implements a complete YOLOv8 training pipeline for mitosis detection on the **MiDeSeC (Ankara University) dataset**.
 
@@ -26,7 +26,7 @@ pip install ultralytics opencv-python numpy pandas scikit-learn tqdm pyyaml matp
 ## 📁 Dataset Structure Expected
 
 ```
-/kaggle/input/nusec-and-midesec/Ankara University Datasets/MiDeSeC/
+/kaggle/input/nusec
 ├── train images/
 └── annotations/  (polygon format)
 ```
@@ -39,7 +39,7 @@ Open the notebook in **Kaggle** or **Jupyter** and run cells sequentially. The n
 - Working directory: `/kaggle/working/`
 - Raw dataset output: `/kaggle/working/datasets/raw_version/`
 - Processed dataset output: `/kaggle/working/datasets/processed_version/`
-- Model outputs: `/kaggle/working/MiDeSeC_Project/`
+- Model outputs: `/kaggle/working/
 
 ## 📊 Pipeline Stages
 
